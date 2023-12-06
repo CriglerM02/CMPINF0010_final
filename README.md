@@ -18,4 +18,4 @@ Transportation Data (Quinn): https://data.wprdc.org/dataset/pgh/resource/5d61b60
 
 Zone and Lot Attributes (Matt): https://data.wprdc.org/dataset/zone-and-lot-attributes
 
-Meter Transactions (Brandon): https://data.wprdc.org/dataset/parking-transactions/resource/f58a2f59-b2e8-4067-a7d9-bbedb7e119b0
+Total meter and mobile parking transactions (Brandon): https://data.wprdc.org/dataset/parking-transactions/resource/f58a2f59-b2e8-4067-a7d9-bbedb7e119b0
